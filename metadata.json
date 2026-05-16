@@ -1,0 +1,8 @@
+{
+  "name": "수업 시간 30초 스위치",
+  "description": "중학교 교실에서 수업 시작 전 학생들의 집중력을 높이고 분위기를 환기시키는 웹 앱. '오늘의 질문'과 '오늘의 상식 퀴즈'로 학생들의 호기심과 두뇌를 자극합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
